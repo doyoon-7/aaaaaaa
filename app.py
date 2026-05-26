@@ -1,6 +1,3 @@
-import random
-import sys
-
 # 초기화
 pygame.init()
 
