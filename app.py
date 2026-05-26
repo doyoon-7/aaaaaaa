@@ -2,7 +2,6 @@ import random
 import sys
 
 # 초기화
-pygame.init()
 
 # 색상 정의
 BLACK    = (0,   0,   0)
